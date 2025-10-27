@@ -1,2 +1,3 @@
-Sofia Lopez Holguin
-Parcial 2 respuesta pregunta 7 
+# Sofia Lopez Holguin
+
+## Parcial 2 respuesta pregunta 7 
